@@ -1,5 +1,5 @@
 # DMA
-Disable mouse acceleration [ARCH]
+Disable mouse acceleration (X11)[ARCH]
 
 ADD THIS FILE TO - 
 /USR/SHARE/X11/XORG.CONF.D
